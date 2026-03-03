@@ -1,5 +1,11 @@
 #include <Health.h>
-
+/*
+Name: Dylan DeJesus
+Course: CSCI 272
+Lesson Number: Lesson 4
+Code Topic: main for class, constructors, destructors
+Date: 03/02/2026
+*/
 
 int main()
 {
